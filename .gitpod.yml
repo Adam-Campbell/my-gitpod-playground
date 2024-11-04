@@ -1,0 +1,4 @@
+# .gitpod.yml
+vscode:
+  extensions:
+    - humao.rest-client@0.25.1
